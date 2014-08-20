@@ -1,0 +1,8 @@
+2014-08-21 00:09:20.876 myApp[80304:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 00:09:20.900 myApp[80304:70b] Unlimited access to network resources
+2014-08-21 00:09:21.035 myApp[80304:70b] [CDVTimer][keyboard] 0.077009ms
+2014-08-21 00:09:21.036 myApp[80304:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-21 00:09:21.036 myApp[80304:70b] [CDVTimer][statusbar] 0.571012ms
+2014-08-21 00:09:21.037 myApp[80304:70b] [CDVTimer][TotalPluginStartup] 1.878977ms
+2014-08-21 00:09:21.208 myApp[80304:70b] Resetting plugins due to page load.
+2014-08-21 00:09:21.407 myApp[80304:70b] Finished load of: file:///Users/sujay/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1E0C8C39-01A8-4ACC-91DB-578DC4A027B5/myApp.app/www/index.html#/tab/dash
